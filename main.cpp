@@ -1,5 +1,4 @@
 #include "mainwindow.h"
-
 #include <QApplication>
 #include <QTreeView>
 #include <QFileSystemModel>
@@ -9,6 +8,19 @@
 #include <QLineEdit>
 #include <QHBoxLayout>
 #include <QPushButton>
+#include <QDragMoveEvent>  // Add this include for drag events
+
+class CustomTreeView : public QTreeView {
+    Q_OBJECT
+public:
+    CustomTreeView(QWidget *parent = nullptr) : QTreeView(parent) {}
+
+protected:
+    void dragMoveEvent(QDragMoveEvent *event) override {
+        // Handle the drag move event here if needed
+        event->accept();
+    }
+};
 
 class FileExplorer : public QWidget {
     Q_OBJECT
@@ -20,7 +32,7 @@ public:
         model->setRootPath("");
 
         // Set up the tree view
-        QTreeView *treeView = new QTreeView(this);
+        CustomTreeView *treeView = new CustomTreeView(this);  // Use CustomTreeView
         treeView->setModel(model);
         treeView->setRootIndex(model->index("."));
         treeView->setColumnWidth(0, 250);
@@ -108,5 +120,3 @@ int main(int argc, char *argv[]) {
 
     return app.exec();
 }
-
-

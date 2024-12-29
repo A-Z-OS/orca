@@ -45,6 +45,8 @@ set(OLD_GLOB
   "/Users/user1/Documents/GitHub/orca/orca/build/Desktop_arm_darwin_generic_mach_o_64bit-Debug/orca_autogen/EWIEGA46WW/moc_mainwindow.cpp"
   "/Users/user1/Documents/GitHub/orca/orca/build/Desktop_arm_darwin_generic_mach_o_64bit-Debug/orca_autogen/mocs_compilation.cpp"
   "/Users/user1/Documents/GitHub/orca/orca/build/Desktop_arm_darwin_generic_mach_o_64bit-Release/CMakeFiles/3.31.1/CompilerIdCXX/CMakeCXXCompilerId.cpp"
+  "/Users/user1/Documents/GitHub/orca/orca/build/Desktop_arm_darwin_generic_mach_o_64bit-Release/orca_autogen/EWIEGA46WW/moc_mainwindow.cpp"
+  "/Users/user1/Documents/GitHub/orca/orca/build/Desktop_arm_darwin_generic_mach_o_64bit-Release/orca_autogen/mocs_compilation.cpp"
   "/Users/user1/Documents/GitHub/orca/orca/main.cpp"
   "/Users/user1/Documents/GitHub/orca/orca/mainwindow.cpp"
   )
@@ -67,6 +69,8 @@ file(GLOB_RECURSE NEW_GLOB LIST_DIRECTORIES false "/Users/user1/Documents/GitHub
 set(OLD_GLOB
   "/Users/user1/Documents/GitHub/orca/orca/build/Desktop_arm_darwin_generic_mach_o_64bit-Debug/orca_autogen/include/ui_mainwindow.h"
   "/Users/user1/Documents/GitHub/orca/orca/build/Desktop_arm_darwin_generic_mach_o_64bit-Debug/orca_autogen/moc_predefs.h"
+  "/Users/user1/Documents/GitHub/orca/orca/build/Desktop_arm_darwin_generic_mach_o_64bit-Release/orca_autogen/include/ui_mainwindow.h"
+  "/Users/user1/Documents/GitHub/orca/orca/build/Desktop_arm_darwin_generic_mach_o_64bit-Release/orca_autogen/moc_predefs.h"
   "/Users/user1/Documents/GitHub/orca/orca/mainwindow.h"
   )
 if(NOT "${NEW_GLOB}" STREQUAL "${OLD_GLOB}")

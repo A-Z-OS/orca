@@ -100,6 +100,11 @@
   /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX.sdk/usr/include/sys/syslimits.h \
   /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX.sdk/usr/include/sys/wait.h \
   /Users/user1/Documents/GitHub/orca/orca/mainwindow.h \
+  /Volumes/Transcend/qt/6.8.1/macos/lib/QtCore.framework/Versions/A/Headers/QList \
+  /Volumes/Transcend/qt/6.8.1/macos/lib/QtCore.framework/Versions/A/Headers/QObject \
+  /Volumes/Transcend/qt/6.8.1/macos/lib/QtCore.framework/Versions/A/Headers/QRect \
+  /Volumes/Transcend/qt/6.8.1/macos/lib/QtCore.framework/Versions/A/Headers/QSize \
+  /Volumes/Transcend/qt/6.8.1/macos/lib/QtCore.framework/Versions/A/Headers/QSizeF \
   /Volumes/Transcend/qt/6.8.1/macos/lib/QtCore.framework/Versions/A/Headers/q20functional.h \
   /Volumes/Transcend/qt/6.8.1/macos/lib/QtCore.framework/Versions/A/Headers/q20iterator.h \
   /Volumes/Transcend/qt/6.8.1/macos/lib/QtCore.framework/Versions/A/Headers/q20memory.h \
@@ -241,12 +246,16 @@
   /Volumes/Transcend/qt/6.8.1/macos/lib/QtCore.framework/Versions/A/Headers/qversiontagging.h \
   /Volumes/Transcend/qt/6.8.1/macos/lib/QtCore.framework/Versions/A/Headers/qxptype_traits.h \
   /Volumes/Transcend/qt/6.8.1/macos/lib/QtCore.framework/Versions/A/Headers/qyieldcpu.h \
+  /Volumes/Transcend/qt/6.8.1/macos/lib/QtGui.framework/Versions/A/Headers/QDragMoveEvent \
   /Volumes/Transcend/qt/6.8.1/macos/lib/QtGui.framework/Versions/A/Headers/QFileSystemModel \
+  /Volumes/Transcend/qt/6.8.1/macos/lib/QtGui.framework/Versions/A/Headers/QTransform \
   /Volumes/Transcend/qt/6.8.1/macos/lib/QtGui.framework/Versions/A/Headers/qaction.h \
   /Volumes/Transcend/qt/6.8.1/macos/lib/QtGui.framework/Versions/A/Headers/qbitmap.h \
   /Volumes/Transcend/qt/6.8.1/macos/lib/QtGui.framework/Versions/A/Headers/qbrush.h \
   /Volumes/Transcend/qt/6.8.1/macos/lib/QtGui.framework/Versions/A/Headers/qcolor.h \
   /Volumes/Transcend/qt/6.8.1/macos/lib/QtGui.framework/Versions/A/Headers/qcursor.h \
+  /Volumes/Transcend/qt/6.8.1/macos/lib/QtGui.framework/Versions/A/Headers/qevent.h \
+  /Volumes/Transcend/qt/6.8.1/macos/lib/QtGui.framework/Versions/A/Headers/qeventpoint.h \
   /Volumes/Transcend/qt/6.8.1/macos/lib/QtGui.framework/Versions/A/Headers/qfilesystemmodel.h \
   /Volumes/Transcend/qt/6.8.1/macos/lib/QtGui.framework/Versions/A/Headers/qfont.h \
   /Volumes/Transcend/qt/6.8.1/macos/lib/QtGui.framework/Versions/A/Headers/qfontinfo.h \
@@ -255,6 +264,7 @@
   /Volumes/Transcend/qt/6.8.1/macos/lib/QtGui.framework/Versions/A/Headers/qguiapplication_platform.h \
   /Volumes/Transcend/qt/6.8.1/macos/lib/QtGui.framework/Versions/A/Headers/qicon.h \
   /Volumes/Transcend/qt/6.8.1/macos/lib/QtGui.framework/Versions/A/Headers/qimage.h \
+  /Volumes/Transcend/qt/6.8.1/macos/lib/QtGui.framework/Versions/A/Headers/qinputdevice.h \
   /Volumes/Transcend/qt/6.8.1/macos/lib/QtGui.framework/Versions/A/Headers/qinputmethod.h \
   /Volumes/Transcend/qt/6.8.1/macos/lib/QtGui.framework/Versions/A/Headers/qkeysequence.h \
   /Volumes/Transcend/qt/6.8.1/macos/lib/QtGui.framework/Versions/A/Headers/qpaintdevice.h \
@@ -263,10 +273,13 @@
   /Volumes/Transcend/qt/6.8.1/macos/lib/QtGui.framework/Versions/A/Headers/qpicture.h \
   /Volumes/Transcend/qt/6.8.1/macos/lib/QtGui.framework/Versions/A/Headers/qpixelformat.h \
   /Volumes/Transcend/qt/6.8.1/macos/lib/QtGui.framework/Versions/A/Headers/qpixmap.h \
+  /Volumes/Transcend/qt/6.8.1/macos/lib/QtGui.framework/Versions/A/Headers/qpointingdevice.h \
   /Volumes/Transcend/qt/6.8.1/macos/lib/QtGui.framework/Versions/A/Headers/qpolygon.h \
   /Volumes/Transcend/qt/6.8.1/macos/lib/QtGui.framework/Versions/A/Headers/qregion.h \
   /Volumes/Transcend/qt/6.8.1/macos/lib/QtGui.framework/Versions/A/Headers/qrgb.h \
   /Volumes/Transcend/qt/6.8.1/macos/lib/QtGui.framework/Versions/A/Headers/qrgba64.h \
+  /Volumes/Transcend/qt/6.8.1/macos/lib/QtGui.framework/Versions/A/Headers/qscreen.h \
+  /Volumes/Transcend/qt/6.8.1/macos/lib/QtGui.framework/Versions/A/Headers/qscreen_platform.h \
   /Volumes/Transcend/qt/6.8.1/macos/lib/QtGui.framework/Versions/A/Headers/qtextcursor.h \
   /Volumes/Transcend/qt/6.8.1/macos/lib/QtGui.framework/Versions/A/Headers/qtextdocument.h \
   /Volumes/Transcend/qt/6.8.1/macos/lib/QtGui.framework/Versions/A/Headers/qtextformat.h \
@@ -276,6 +289,8 @@
   /Volumes/Transcend/qt/6.8.1/macos/lib/QtGui.framework/Versions/A/Headers/qtguiglobal.h \
   /Volumes/Transcend/qt/6.8.1/macos/lib/QtGui.framework/Versions/A/Headers/qtransform.h \
   /Volumes/Transcend/qt/6.8.1/macos/lib/QtGui.framework/Versions/A/Headers/qvalidator.h \
+  /Volumes/Transcend/qt/6.8.1/macos/lib/QtGui.framework/Versions/A/Headers/qvector2d.h \
+  /Volumes/Transcend/qt/6.8.1/macos/lib/QtGui.framework/Versions/A/Headers/qvectornd.h \
   /Volumes/Transcend/qt/6.8.1/macos/lib/QtGui.framework/Versions/A/Headers/qwindowdefs.h \
   /Volumes/Transcend/qt/6.8.1/macos/lib/QtWidgets.framework/Versions/A/Headers/QApplication \
   /Volumes/Transcend/qt/6.8.1/macos/lib/QtWidgets.framework/Versions/A/Headers/QHBoxLayout \

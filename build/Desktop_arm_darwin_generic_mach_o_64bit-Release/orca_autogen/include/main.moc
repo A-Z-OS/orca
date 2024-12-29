@@ -30,6 +30,75 @@ QT_WARNING_PUSH
 QT_WARNING_DISABLE_DEPRECATED
 QT_WARNING_DISABLE_GCC("-Wuseless-cast")
 namespace {
+struct qt_meta_tag_ZN14CustomTreeViewE_t {};
+} // unnamed namespace
+
+
+#ifdef QT_MOC_HAS_STRINGDATA
+static constexpr auto qt_meta_stringdata_ZN14CustomTreeViewE = QtMocHelpers::stringData(
+    "CustomTreeView"
+);
+#else  // !QT_MOC_HAS_STRINGDATA
+#error "qtmochelpers.h not found or too old."
+#endif // !QT_MOC_HAS_STRINGDATA
+
+Q_CONSTINIT static const uint qt_meta_data_ZN14CustomTreeViewE[] = {
+
+ // content:
+      12,       // revision
+       0,       // classname
+       0,    0, // classinfo
+       0,    0, // methods
+       0,    0, // properties
+       0,    0, // enums/sets
+       0,    0, // constructors
+       0,       // flags
+       0,       // signalCount
+
+       0        // eod
+};
+
+Q_CONSTINIT const QMetaObject CustomTreeView::staticMetaObject = { {
+    QMetaObject::SuperData::link<QTreeView::staticMetaObject>(),
+    qt_meta_stringdata_ZN14CustomTreeViewE.offsetsAndSizes,
+    qt_meta_data_ZN14CustomTreeViewE,
+    qt_static_metacall,
+    nullptr,
+    qt_incomplete_metaTypeArray<qt_meta_tag_ZN14CustomTreeViewE_t,
+        // Q_OBJECT / Q_GADGET
+        QtPrivate::TypeAndForceComplete<CustomTreeView, std::true_type>
+    >,
+    nullptr
+} };
+
+void CustomTreeView::qt_static_metacall(QObject *_o, QMetaObject::Call _c, int _id, void **_a)
+{
+    auto *_t = static_cast<CustomTreeView *>(_o);
+    (void)_t;
+    (void)_c;
+    (void)_id;
+    (void)_a;
+}
+
+const QMetaObject *CustomTreeView::metaObject() const
+{
+    return QObject::d_ptr->metaObject ? QObject::d_ptr->dynamicMetaObject() : &staticMetaObject;
+}
+
+void *CustomTreeView::qt_metacast(const char *_clname)
+{
+    if (!_clname) return nullptr;
+    if (!strcmp(_clname, qt_meta_stringdata_ZN14CustomTreeViewE.stringdata0))
+        return static_cast<void*>(this);
+    return QTreeView::qt_metacast(_clname);
+}
+
+int CustomTreeView::qt_metacall(QMetaObject::Call _c, int _id, void **_a)
+{
+    _id = QTreeView::qt_metacall(_c, _id, _a);
+    return _id;
+}
+namespace {
 struct qt_meta_tag_ZN12FileExplorerE_t {};
 } // unnamed namespace
 
