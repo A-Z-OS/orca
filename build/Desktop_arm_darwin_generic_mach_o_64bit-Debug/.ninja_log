@@ -1,0 +1,23 @@
+# ninja log v6
+2728	5146	1735513351364556488	CMakeFiles/orca.dir/orca_autogen/mocs_compilation.cpp.o	3bc3b3210f6b5a7d
+205	2726	1735513351332082093	/Users/user1/Documents/GitHub/orca/orca/build/Desktop_arm_darwin_generic_mach_o_64bit-Debug/orca_autogen/include/ui_mainwindow.h	7bdd72fb01f7e0d4
+2728	5481	1735513351364987402	CMakeFiles/orca.dir/main.cpp.o	e278b9887f0c1301
+2728	5212	1735513351365331983	CMakeFiles/orca.dir/mainwindow.cpp.o	b003e2f5706872eb
+205	2726	1735513351332082093	/Users/user1/Documents/GitHub/orca/orca/build/Desktop_arm_darwin_generic_mach_o_64bit-Debug/orca_autogen/mocs_compilation.cpp	7bdd72fb01f7e0d4
+205	2726	1735513351332082093	orca_autogen/mocs_compilation.cpp	7bdd72fb01f7e0d4
+205	2726	1735513351332082093	orca_autogen/timestamp	7bdd72fb01f7e0d4
+205	2726	1735513351332082093	/Users/user1/Documents/GitHub/orca/orca/build/Desktop_arm_darwin_generic_mach_o_64bit-Debug/orca_autogen/timestamp	7bdd72fb01f7e0d4
+5482	10509	1735513354118822304	orca.app/Contents/MacOS/orca	10491c6058885c93
+140	1425	1735513784180645319	build.ninja	e84e771ea3c6ee1d
+205	2726	1735513351332082093	orca_autogen/include/ui_mainwindow.h	7bdd72fb01f7e0d4
+6	168	1735513777897872000	/Users/user1/Documents/GitHub/orca/orca/build/Desktop_arm_darwin_generic_mach_o_64bit-Debug/CMakeFiles/cmake.verify_globs	6bc5fd7f760762
+168	6422	1735513784180645319	build.ninja	e84e771ea3c6ee1d
+2	135	1735513784221249041	/Users/user1/Documents/GitHub/orca/orca/build/Desktop_arm_darwin_generic_mach_o_64bit-Debug/CMakeFiles/cmake.verify_globs	6bc5fd7f760762
+143	1037	1735513784362434179	orca_autogen/timestamp	7bdd72fb01f7e0d4
+143	1037	1735513784362434179	orca_autogen/mocs_compilation.cpp	7bdd72fb01f7e0d4
+143	1037	1735513784362434179	orca_autogen/include/ui_mainwindow.h	7bdd72fb01f7e0d4
+143	1037	1735513784362434179	/Users/user1/Documents/GitHub/orca/orca/build/Desktop_arm_darwin_generic_mach_o_64bit-Debug/orca_autogen/timestamp	7bdd72fb01f7e0d4
+143	1037	1735513784362434179	/Users/user1/Documents/GitHub/orca/orca/build/Desktop_arm_darwin_generic_mach_o_64bit-Debug/orca_autogen/mocs_compilation.cpp	7bdd72fb01f7e0d4
+143	1037	1735513784362434179	/Users/user1/Documents/GitHub/orca/orca/build/Desktop_arm_darwin_generic_mach_o_64bit-Debug/orca_autogen/include/ui_mainwindow.h	7bdd72fb01f7e0d4
+1038	3225	1735513785257317308	CMakeFiles/orca.dir/main.cpp.o	e278b9887f0c1301
+3225	3733	1735513787444298674	orca.app/Contents/MacOS/orca	10491c6058885c93

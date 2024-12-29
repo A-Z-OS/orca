@@ -1,0 +1,8 @@
+/Users/user1/Documents/GitHub/orca/orca/build/Desktop_arm_darwin_generic_mach_o_64bit-Release/CMakeFiles/orca.dir
+/Users/user1/Documents/GitHub/orca/orca/build/Desktop_arm_darwin_generic_mach_o_64bit-Release/CMakeFiles/edit_cache.dir
+/Users/user1/Documents/GitHub/orca/orca/build/Desktop_arm_darwin_generic_mach_o_64bit-Release/CMakeFiles/rebuild_cache.dir
+/Users/user1/Documents/GitHub/orca/orca/build/Desktop_arm_darwin_generic_mach_o_64bit-Release/CMakeFiles/list_install_components.dir
+/Users/user1/Documents/GitHub/orca/orca/build/Desktop_arm_darwin_generic_mach_o_64bit-Release/CMakeFiles/install.dir
+/Users/user1/Documents/GitHub/orca/orca/build/Desktop_arm_darwin_generic_mach_o_64bit-Release/CMakeFiles/install/local.dir
+/Users/user1/Documents/GitHub/orca/orca/build/Desktop_arm_darwin_generic_mach_o_64bit-Release/CMakeFiles/install/strip.dir
+/Users/user1/Documents/GitHub/orca/orca/build/Desktop_arm_darwin_generic_mach_o_64bit-Release/CMakeFiles/orca_autogen.dir
